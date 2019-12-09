@@ -1,4 +1,4 @@
-# Hierarchical Statemachine for Java
+# Hierarchical Statemachine for Kotlin
 
 [![Build Status](https://img.shields.io/travis/artcom/hsm-java/master.svg?style=flat)](https://travis-ci.org/artcom/hsm-java)
 

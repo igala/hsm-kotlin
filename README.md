@@ -2,9 +2,9 @@
 
 [![Build Status](https://img.shields.io/travis/artcom/hsm-java/master.svg?style=flat)](https://travis-ci.org/artcom/hsm-java)
 
-This Project is a hierarchical state machine framework for Java.
+This Project is a hierarchical state machine framework for Kotlin.
 The state machine specification is based on the [UML statemachine](http://en.wikipedia.org/wiki/UML_state_machine).
-The implementation is based on this project: <https://github.com/Mask/hsm-js>.
+The implementation is based on this project: <https://github.com/Mask/hsm-java>.
 
 ### Published artifacts
 

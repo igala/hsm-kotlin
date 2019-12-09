@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsm-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/hsm-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsm/hsm-kotlin.hsm.iml" filepath="$PROJECT_DIR$/.idea/modules/hsm/hsm-kotlin.hsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsm/hsm-kotlin.hsm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hsm/hsm-kotlin.hsm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsm/hsm-kotlin.hsm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hsm/hsm-kotlin.hsm.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsm-kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/hsm-kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hsm-kotlin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/hsm-kotlin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests/hsm-kotlin.tests.iml" filepath="$PROJECT_DIR$/.idea/modules/tests/hsm-kotlin.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests/hsm-kotlin.tests.main.iml" filepath="$PROJECT_DIR$/.idea/modules/tests/hsm-kotlin.tests.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tests/hsm-kotlin.tests.test.iml" filepath="$PROJECT_DIR$/.idea/modules/tests/hsm-kotlin.tests.test.iml" />
+    </modules>
+  </component>
+</project>
